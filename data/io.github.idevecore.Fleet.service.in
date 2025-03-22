@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=io.github.idevecore.Fleet
+Exec=@bindir@/fleet --gapplication-service

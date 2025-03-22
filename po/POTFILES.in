@@ -1,0 +1,8 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+data/io.github.idevecore.Fleet.desktop.in
+data/io.github.idevecore.Fleet.metainfo.xml.in
+data/io.github.idevecore.Fleet.gschema.xml
+src/main.py
+src/window.py
+src/window.ui

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=fleet
+Exec=fleet
+Icon=io.github.idevecore.Fleet
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=GTK;
+StartupNotify=true
+DBusActivatable=true
