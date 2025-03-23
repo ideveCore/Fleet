@@ -22,9 +22,9 @@ from gi.repository import Gtk
 
 @Gtk.Template(resource_path='/io/github/idevecore/Fleet/window.ui')
 class FleetWindow(Adw.ApplicationWindow):
-    __gtype_name__ = 'FleetWindow'
+  __gtype_name__ = 'FleetWindow'
 
-    label = Gtk.Template.Child()
+  label = Gtk.Template.Child()
 
-    def __init__(self, **kwargs):
-        super().__init__(**kwargs)
+  def __init__(self, **kwargs):
+    super().__init__(**kwargs)
